@@ -13,7 +13,7 @@ To use and view the HtML and CSS files, navigate throught the files included and
 
 ## Website URL
 
-https://peckham4563.github.io/Peckham-Horiseon-Repo/
+https://peckham4563.github.io/AP-Portfolio/
 
 ![Screenshot](/Other/Horiseon-Screenshot.png "Webpage Screenshot")
 
