@@ -14,7 +14,7 @@ This portfolio can not only be used to learn information about me and contact me
 
 https://peckham4563.github.io/AP-Portfolio/
 
-![Screenshot](/Other/Portfolio-Screenshot.png "Webpage Screenshot")
+![Screenshot](/AP-Portfolio/Other/Portfolio-Screenshot.png "Webpage Screenshot")
 
 ## Credits
 
