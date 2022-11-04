@@ -1,15 +1,14 @@
 # Week 2 Challenge
 
 ## Description
-This repository contains an edited HTML and edited CSS file that were changed in order to better the overall flow and visibilty of the code. The project instructions were to take an existing webpage and conform the code within to better it overall. Some of the criteria was when you viewed the code you can find semantic HTML elements, the code follwoed a logical structure, the given photo elements were given alternitive attributes to eaiser label them, and the page was given a concise and descriptive title.  
-
+This repository contains an HTML and CSS file that were created from scratch in order to create a portfolio of my information to show my skillset with both HTML and CSS. The project instructions were to start from a blank canvas and transform it into a usable portfolio. Some of the criteria was when you viewed the code you were able to view a portfolio with contact information, name, photo, and information about me.
 ## Installation
 
 N/A
 
 ## Usage
 
-To use and view the HtML and CSS files, navigate throught the files included and open both respectfully. These files can be used as a template for other projects to show the correct format and usage of different HTML and CSS elements. 
+This portfolio can not only be used to learn information about me and contact me, it can also be used as a template for others to view my HTML and CSS to aid their own portfolios. This portfolio can also be used to give to possible employment oppritunities to show my skills and applications I've completed. As my skills improve and I complete more assignments, the portfolio can be improved and added to. 
 
 ## Website URL
 
